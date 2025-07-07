@@ -3,3 +3,4 @@
 ## Contributors
 
 - Master Maintaner/Ezeckiel F. Mercado
+- John Raymond N. Matalog
