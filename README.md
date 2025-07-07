@@ -2,4 +2,4 @@
 
 ## Contributors
 
-- Maintaner/Ezeckiel F. Mercado
+- Master Maintaner/Ezeckiel F. Mercado
